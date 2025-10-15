@@ -15,7 +15,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Conceptos básicos',
+        titulo: 'Conceptos generales del riesgo biológico',
         desarrolloContenidos: true,
         subMenu: [
           {

@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'1. Plataformas de desarrollo'")
+  BannerInterno(:subTitulo="'1. Conceptos generales del riesgo biológico'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
 
@@ -324,11 +324,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/49432" target="_blank" rel="noopener noreferrer") Robledo, D. (2017). Desarrollo de aplicaciones para Android I: ( ed.). Ministerio de Educación y Formación Profesional de España.
+              a(href="https://www.gba.gob.ar/sites/default/files/empleopublico/archivos/Riesgos_Biolgicos.pdf" target="_blank" rel="noopener noreferrer") Gobierno de la Provincia de Buenos Aires. (s.f.). Riesgos biológicos.  
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=sJRSY45nSW8" target="_blank" rel="noopener noreferrer") Víctor Vergel DAM SMR Informática Ciclos Formativos. (2020, 23 de enero). 11 - Android - Ciclo de vida de los activitys [Video]. YouTube.
+              a(href="https://www.youtube.com/watch?v=sJRSY45nSW8" target="_blank" rel="noopener noreferrer") PUBLICIDAD Compañia Rso s.a. (2023, 17 de mayo). Profesional capacitador y Cleo “Dramaconferencia prevención riesgo biológico” mp4 [Vídeo]. YouTube. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
